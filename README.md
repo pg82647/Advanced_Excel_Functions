@@ -1,4 +1,4 @@
-For this assignment,
+For this assignment,  
 •	Row-wise and column-wise additions were applied in the Formula Fundamentals worksheet.  
 •	Column-wise subtraction was applied in the Formula Fundamentals worksheet.  
 •	Multiplication was applied by referencing a renamed cell in the Tax Rate worksheet.  
